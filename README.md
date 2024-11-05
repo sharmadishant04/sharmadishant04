@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmadishant04" alt="sharmadishant04" /></a> </p>
 
-- 🔭 I’m currently working on **Gen Ai on Vertex AI**
+- 🔭 I’m currently working on **Quantum based Blockchain solutions**
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **Solidity and Python**
 
-- 💬 Ask me about **Python, Gen AI**
+- 💬 Ask me about **Python, AI**
 
 - 📫 How to reach me **sharmadishant04@gmail.com**
 
