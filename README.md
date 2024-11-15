@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmadishant04" alt="sharmadishant04" /></a> </p>
 
-- 🔭 I’m currently working on **Quantum based Blockchain solutions**
+- 🔭 I’m currently working on **Quantum safe Blockchain solutions**
 
 - 🌱 I’m currently learning **Solidity and Python**
 
