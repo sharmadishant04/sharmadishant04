@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sharmadishant04@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P3k_Ibgr-eWdTne30-IJ9ySU3K7X_KiW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ePJ2-LGNBvkXZRN_RzBdyixURxfCiL7F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
