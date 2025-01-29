@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity and Python**
 
-- 💬 Ask me about **Python, AI**
+- 💬 Ask me about **Python, AI and Blockchain**
 
 - 📫 How to reach me **sharmadishant04@gmail.com**
 
