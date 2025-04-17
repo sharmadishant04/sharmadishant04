@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+LLM+Enthusiast;Full+Stack+Developer;Love+Building+Smart+Systems" alt="Typing SVG" />
 </p>
-
 ---
-
 ### 🚀 About Me
 
 - 🔭 Currently working on **Develpoing new LLM Solutions**
